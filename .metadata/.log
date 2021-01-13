@@ -11003,3 +11003,18 @@ Caused by: java.lang.StringIndexOutOfBoundsException: begin 1, end 0, length 1
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:25:03.918
 !MESSAGE executing callback sts4.classpath.POQWxdds SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:30:20.842
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:30:20.849
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:30:20.850
+!MESSAGE buffering callback sts4.classpath.POQWxdds cursomc false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:30:20.851
+!MESSAGE executing callback sts4.classpath.POQWxdds 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-13 19:30:20.888
+!MESSAGE executing callback sts4.classpath.POQWxdds SUCCESS [done]
