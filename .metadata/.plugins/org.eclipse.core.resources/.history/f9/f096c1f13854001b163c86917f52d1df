@@ -1,0 +1,15 @@
+package com.algaworks.osworks.api.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.algaworks.osworks.domain.model.Cliente;
+
+@RestController
+public class ClienteController {
+
+	public List<Cliente> listar() {
+		return null;
+	}
+}
