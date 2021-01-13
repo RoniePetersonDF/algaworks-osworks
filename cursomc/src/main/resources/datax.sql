@@ -1,0 +1,1 @@
+insert into categoria (nome) values ('Informática'), ('Escritório');
